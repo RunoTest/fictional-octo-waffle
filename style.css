@@ -20,15 +20,15 @@ body{
 }
 /*-- banner-top --*/
 .w3layouts-banner-top{
-    background: url(../images/2.jpg) no-repeat 0px 0px;
+    background: url(../2.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .w3layouts-banner-top1{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 }
 .w3layouts-banner-top2{
-	background: url(../images/3.jpg) no-repeat 0px 0px;
+	background: url(../3.jpg) no-repeat 0px 0px;
     background-size: cover;	
 }
 /*-- //banner-top --*/
@@ -599,12 +599,12 @@ ul.dropdown-menu li{
     padding-right: 0;
 }
 .agile-news-img{
-    background: url(../images/6.jpg) no-repeat 0px 0px;
+    background: url(../6.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 250px;
 }
 .agile-news-img1{
-    background: url(../images/7.jpg) no-repeat 0px 0px;
+    background: url(../7.jpg) no-repeat 0px 0px;
     background-size: cover;	
 }
 .agile-news-img-info{
@@ -802,7 +802,7 @@ ul.dropdown-menu li{
 /*-- //a-about --*/
 /*-- different --*/
 .different{
-    background: url(../images/2.jpg) no-repeat 0px 0px;
+    background: url(../2.jpg) no-repeat 0px 0px;
     padding: 4em 0;
     background-size: cover;
 }
