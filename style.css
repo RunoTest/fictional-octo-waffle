@@ -395,7 +395,7 @@ ul.dropdown-menu li{
     text-decoration: none;
     width: 62px;
     height: 62px;
-    background: transparent url(../images/arrows1.png) no-repeat left top;
+    background: transparent url(../arrows1.png) no-repeat left top;
 }
 .callbacks_nav.next {
 	left: auto;
@@ -738,7 +738,7 @@ ul.dropdown-menu li{
 /*-- //copyright --*/
 /*-- about-banner --*/
 .about-banner{
-	background: url(../images/2.jpg) no-repeat 0px 0px;
+	background: url(../2.jpg) no-repeat 0px 0px;
     background-size: cover;
     position: inherit;
     padding: 0 0 2em 0;
@@ -1586,7 +1586,7 @@ i.fa.fa-pencil{
 }
 .categories ul li {
     display: block;
-    background: url(../images/arrow1.png) no-repeat 0px 2px;
+    background: url(../arrow1.png) no-repeat 0px 2px;
     margin-bottom: 1em;
 }
 .categories ul li a {
@@ -1852,7 +1852,7 @@ button.btn1:hover{
 	height: 40px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/arrow.png) no-repeat 0px 0px;
+	background: url(../arrow.png) no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 40px;
